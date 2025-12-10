@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 691bc5777fc15f74eb4d2cae9e8d6e88
+guid: 26b1d2d62bc29874da28600828403789
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7275209343143800908
-    second: pertigaan jalan_0
+      213: -1274250411473194610
+    second: Sprite-0010_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pertigaan jalan_0
+      name: Sprite-0010_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 10
         y: 0
-        width: 172
-        height: 200
+        width: 82
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4bf8f4be5a3490b90800000000000000
-      internalID: -7275209343143800908
+      spriteID: e81be358004f05ee0800000000000000
+      internalID: -1274250411473194610
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pertigaan jalan_0: -7275209343143800908
+      Sprite-0010_0: -1274250411473194610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

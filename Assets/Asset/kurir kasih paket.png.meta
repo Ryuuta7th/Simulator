@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 691bc5777fc15f74eb4d2cae9e8d6e88
+guid: 7a4dc5e8e0f498147b5b8a43c2070aae
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7275209343143800908
-    second: pertigaan jalan_0
+      213: 2797088753757349166
+    second: kurir kasih paket_0
+  - first:
+      213: -737981703659809495
+    second: kurir kasih paket_1
+  - first:
+      213: 1752123157472390477
+    second: kurir kasih paket_2
+  - first:
+      213: -4904863406564940468
+    second: kurir kasih paket_3
+  - first:
+      213: 2118389232336335600
+    second: kurir kasih paket_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +87,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pertigaan jalan_0
+      name: kurir kasih paket_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 172
-        height: 200
+        x: 36
+        y: 264
+        width: 156
+        height: 188
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4bf8f4be5a3490b90800000000000000
-      internalID: -7275209343143800908
+      spriteID: e2562f4e66141d620800000000000000
+      internalID: 2797088753757349166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurir kasih paket_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 268
+        width: 156
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9259e9eec8922c5f0800000000000000
+      internalID: -737981703659809495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurir kasih paket_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 278
+        width: 156
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da0e38abac05810800000000000000
+      internalID: 1752123157472390477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurir kasih paket_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 156
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4562e308bc6eebb0800000000000000
+      internalID: -4904863406564940468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kurir kasih paket_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 28
+        width: 156
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f27b6978c7066d10800000000000000
+      internalID: 2118389232336335600
       vertices: []
       indices: 
       edges: []
@@ -148,7 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pertigaan jalan_0: -7275209343143800908
+      kurir kasih paket_0: 2797088753757349166
+      kurir kasih paket_1: -737981703659809495
+      kurir kasih paket_2: 1752123157472390477
+      kurir kasih paket_3: -4904863406564940468
+      kurir kasih paket_4: 2118389232336335600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

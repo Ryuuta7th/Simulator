@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: f3203d3b884f5d043ae3b0b49bb62ae5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1240979752470175145
+    second: mobil van-belok kanan-Sheet_0
+  - first:
+      213: 4378609164786638171
+    second: mobil van-belok kanan-Sheet_1
+  - first:
+      213: -3155489194782100442
+    second: mobil van-belok kanan-Sheet_2
+  - first:
+      213: 7921812597661238759
+    second: mobil van-belok kanan-Sheet_3
+  - first:
+      213: 1909963540285149584
+    second: mobil van-belok kanan-Sheet_4
+  - first:
+      213: 3164485583769243307
+    second: mobil van-belok kanan-Sheet_5
+  - first:
+      213: 5935868830973201840
+    second: mobil van-belok kanan-Sheet_6
+  - first:
+      213: 5564897644492239852
+    second: mobil van-belok kanan-Sheet_7
+  - first:
+      213: -961408224642816970
+    second: mobil van-belok kanan-Sheet_8
+  - first:
+      213: -8197458648668598219
+    second: mobil van-belok kanan-Sheet_9
+  - first:
+      213: 5295228457210054197
+    second: mobil van-belok kanan-Sheet_10
+  - first:
+      213: 2508096140103661089
+    second: mobil van-belok kanan-Sheet_11
+  - first:
+      213: 6886591817589933464
+    second: mobil van-belok kanan-Sheet_12
+  - first:
+      213: -1318718319613464390
+    second: mobil van-belok kanan-Sheet_13
+  - first:
+      213: 8521827184671239395
+    second: mobil van-belok kanan-Sheet_14
+  - first:
+      213: 2808428503991230825
+    second: mobil van-belok kanan-Sheet_15
+  - first:
+      213: 6223893260882750400
+    second: mobil van-belok kanan-Sheet_16
+  - first:
+      213: -6473376795604099185
+    second: mobil van-belok kanan-Sheet_17
+  - first:
+      213: 5527022418535921006
+    second: mobil van-belok kanan-Sheet_18
+  - first:
+      213: -2696179210105416729
+    second: mobil van-belok kanan-Sheet_19
+  - first:
+      213: -1740662721999655417
+    second: mobil van-belok kanan-Sheet_20
+  - first:
+      213: 3127540773242863525
+    second: mobil van-belok kanan-Sheet_21
+  - first:
+      213: -211722897947279052
+    second: mobil van-belok kanan-Sheet_22
+  - first:
+      213: 4913507165661929791
+    second: mobil van-belok kanan-Sheet_23
+  - first:
+      213: 7223063519984038607
+    second: mobil van-belok kanan-Sheet_24
+  - first:
+      213: -6212569212324597686
+    second: mobil van-belok kanan-Sheet_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2467
+        width: 146
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9addf678288d83110800000000000000
+      internalID: 1240979752470175145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2501
+        width: 144
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d906526d1f3cc30800000000000000
+      internalID: 4378609164786638171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2507
+        width: 144
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624fd6cbb437534d0800000000000000
+      internalID: -3155489194782100442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 2513
+        width: 142
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e500d4069eefed60800000000000000
+      internalID: 7921812597661238759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 2515
+        width: 142
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d4a078bd818a10800000000000000
+      internalID: 1909963540285149584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2519
+        width: 150
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae096d4fd28aeb20800000000000000
+      internalID: 3164485583769243307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1929
+        width: 150
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd887f8041706250800000000000000
+      internalID: 5935868830973201840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1925
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce33e5f6cec7a3d40800000000000000
+      internalID: 5564897644492239852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1931
+        width: 164
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634a60e305468a2f0800000000000000
+      internalID: -961408224642816970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1941
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53097218ac6cc3e80800000000000000
+      internalID: -8197458648668598219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 1963
+        width: 178
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5368b8cf93e6c7940800000000000000
+      internalID: 5295228457210054197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 1977
+        width: 180
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1263865a62c8ec220800000000000000
+      internalID: 2508096140103661089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1395
+        width: 192
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8954f8875c6129f50800000000000000
+      internalID: 6886591817589933464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1407
+        width: 204
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b3a8dca8f2bde0800000000000000
+      internalID: -1318718319613464390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1431
+        width: 208
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eca8938cac934670800000000000000
+      internalID: 8521827184671239395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1451
+        width: 210
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961aa7d38da89f620800000000000000
+      internalID: 2808428503991230825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 1467
+        width: 214
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb2dd6f1f5bf5650800000000000000
+      internalID: 6223893260882750400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1485
+        width: 214
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fd2c01a12f926a0800000000000000
+      internalID: -6473376795604099185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 901
+        width: 216
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6534723b9de3bc40800000000000000
+      internalID: 5527022418535921006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 905
+        width: 220
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e39fda1b4f359ad0800000000000000
+      internalID: -2696179210105416729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 917
+        width: 222
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e227d0a7ce7d7e0800000000000000
+      internalID: -1740662721999655417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 927
+        width: 218
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aff0b943c1476b20800000000000000
+      internalID: 3127540773242863525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 927
+        width: 222
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4314905652fcf0df0800000000000000
+      internalID: -211722897947279052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 921
+        width: 234
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31ad9afbb8403440800000000000000
+      internalID: 4913507165661929791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 313
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc23bb2800a7d3460800000000000000
+      internalID: 7223063519984038607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobil van-belok kanan-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 315
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a403ddc873588c9a0800000000000000
+      internalID: -6212569212324597686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mobil van-belok kanan-Sheet_0: 1240979752470175145
+      mobil van-belok kanan-Sheet_1: 4378609164786638171
+      mobil van-belok kanan-Sheet_10: 5295228457210054197
+      mobil van-belok kanan-Sheet_11: 2508096140103661089
+      mobil van-belok kanan-Sheet_12: 6886591817589933464
+      mobil van-belok kanan-Sheet_13: -1318718319613464390
+      mobil van-belok kanan-Sheet_14: 8521827184671239395
+      mobil van-belok kanan-Sheet_15: 2808428503991230825
+      mobil van-belok kanan-Sheet_16: 6223893260882750400
+      mobil van-belok kanan-Sheet_17: -6473376795604099185
+      mobil van-belok kanan-Sheet_18: 5527022418535921006
+      mobil van-belok kanan-Sheet_19: -2696179210105416729
+      mobil van-belok kanan-Sheet_2: -3155489194782100442
+      mobil van-belok kanan-Sheet_20: -1740662721999655417
+      mobil van-belok kanan-Sheet_21: 3127540773242863525
+      mobil van-belok kanan-Sheet_22: -211722897947279052
+      mobil van-belok kanan-Sheet_23: 4913507165661929791
+      mobil van-belok kanan-Sheet_24: 7223063519984038607
+      mobil van-belok kanan-Sheet_25: -6212569212324597686
+      mobil van-belok kanan-Sheet_3: 7921812597661238759
+      mobil van-belok kanan-Sheet_4: 1909963540285149584
+      mobil van-belok kanan-Sheet_5: 3164485583769243307
+      mobil van-belok kanan-Sheet_6: 5935868830973201840
+      mobil van-belok kanan-Sheet_7: 5564897644492239852
+      mobil van-belok kanan-Sheet_8: -961408224642816970
+      mobil van-belok kanan-Sheet_9: -8197458648668598219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,6 +5,10 @@ public class EnterCar : MonoBehaviour
     private bool playerNear = false;
     public GameObject player;
     public CarSteering carSteering;
+    public CameraManager cameraManager;
+
+    public Rigidbody2D carRB;
+
 
     private bool isInsideCar = false;
 
@@ -15,6 +19,7 @@ public class EnterCar : MonoBehaviour
     void Start()
     {
         carSteering.enabled = false;
+        carRB.bodyType = RigidbodyType2D.Kinematic;
     }
 
     void Update()
@@ -33,6 +38,10 @@ public class EnterCar : MonoBehaviour
         player.SetActive(false);
         carSteering.enabled = true;
         isInsideCar = true;
+
+        cameraManager.SwitchToCar(true);
+
+        carRB.bodyType = RigidbodyType2D.Dynamic;
     }
 
     void ExitVehicle()
@@ -47,8 +56,12 @@ public class EnterCar : MonoBehaviour
         carSteering.enabled = false;
         isInsideCar = false;
 
+        cameraManager.SwitchToCar(false);
+
         canEnter = false;
         Invoke(nameof(EnableEnter), 0.5f);
+
+        carRB.bodyType = RigidbodyType2D.Kinematic;
     }
 
     private void EnableEnter()
