@@ -633,6 +633,7 @@ GameObject:
   - component: {fileID: 294742766}
   - component: {fileID: 294742762}
   - component: {fileID: 294742767}
+  - component: {fileID: 294742769}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -653,7 +654,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   speed: 5
-  rotationSpeed: 2
+  rotationSpeed: 5
 --- !u!50 &294742763
 Rigidbody2D:
   serializedVersion: 5
@@ -858,6 +859,18 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 7.1231422
+--- !u!114 &294742769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 294742761}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9877e435ca96db7449a4fc612f048386, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerInteraction
 --- !u!1 &296725831
 GameObject:
   m_ObjectHideFlags: 0
@@ -1494,7 +1507,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1519,7 +1532,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.19, y: -2.15, z: -10}
+  m_LocalPosition: {x: 2.0675323, y: -2.15151, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1572,6 +1585,7 @@ GameObject:
   - component: {fileID: 519442133}
   - component: {fileID: 519442126}
   - component: {fileID: 519442131}
+  - component: {fileID: 519442134}
   m_Layer: 0
   m_Name: Car
   m_TagString: Untagged
@@ -1591,8 +1605,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c89dfb54d066674e8754b905d26bfc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  accelerationPower: 10
-  steeringPower: 1
+  accelerationPower: 35
+  steeringPower: 0.5
 --- !u!212 &519442127
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1803,6 +1817,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 9.125, y: 14.377807}
   m_EdgeRadius: 0
+--- !u!114 &519442134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519442125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 535206fe8227e7a47993caa37b31b3df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Vehicle
+  seatPoint: {fileID: 0}
 --- !u!224 &534329198 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 2702499393705324506, guid: e0b7e2678ee5cec4cb884e970cfdc041, type: 3}
@@ -3179,7 +3206,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 60
-    OrthographicSize: 5
+    OrthographicSize: 8
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -5168,7 +5195,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 60
-    OrthographicSize: 5
+    OrthographicSize: 9
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0

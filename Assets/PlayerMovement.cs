@@ -42,13 +42,13 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + input * speed * Time.fixedDeltaTime);
+    rb.MovePosition(rb.position + input * speed * Time.fixedDeltaTime);
 
-        if (input != Vector2.zero)
-        {
-            Quaternion toRotation = Quaternion.LookRotation(Vector3.forward, input);
-            transform.rotation = Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.fixedDeltaTime);
-        }
+    if (input != Vector2.zero)
+    {
+        float angle = Mathf.Atan2(input.y, input.x) * Mathf.Rad2Deg - 135f;
+        rb.MoveRotation(Mathf.LerpAngle(rb.rotation, angle, rotationSpeed * Time.fixedDeltaTime));
+    }
     
     }
 }
